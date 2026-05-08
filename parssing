@@ -1,0 +1,10 @@
+{
+    ".\\RustClient_Data\\Managed\\Assembly-CSharp.dll": "fd595607bc00c7091db0124149cc17bc",
+    ".\\RustClient_Data\\Managed\\EternalAC.dll": "fb0a9f48c1dc42ff4694348da719f103",
+    ".\\RustClient_Data\\Managed\\Facepunch.Unity.dll": "9efa62cb38e3c6048f433e3c1cec4514",
+    ".\\RustClient_Data\\StreamingAssets\\benchmark.dem": "b8ad7b10cbd1733f788a07e444eaf5c0",
+    ".\\RustClient_Data\\StreamingAssets\\loading.png": "31aaba8caf107ae20b311f74d6f14ad1",
+    ".\\RustClient_Data\\StreamingAssets\\LZ4.txt": "a9bd503ba32055c88d42ed6ea8a5fdc3",
+    ".\\RustClient_Data\\StreamingAssets\\RenderInfo.exe": "77a79e34f190597353844ccae73e05ed",
+    ".\\RustClient_Data\\StreamingAssets\\start.png": "39980668c414a093b2dbf4914e526fcd"
+}
