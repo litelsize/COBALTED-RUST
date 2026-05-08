@@ -1,4 +1,8 @@
 {
     ".\\RustClient_Data\\StreamingAssets\\loading.png": "31aaba8caf107ae20b311f74d6f14ad1",
-    ".\\RustClient_Data\\StreamingAssets\\start.png": "39980668c414a093b2dbf4914e526fcd"
+    ".\\RustClient_Data\\StreamingAssets\\start.png": "39980668c414a093b2dbf4914e526fcd",
+    ".\\BepInEx\\TEST": "39980668c414a093b2dbf4914e526fcd",
+    ".\\BepInEx\\TEST2": "39980668c414a093b2dbf4914e526fcd",
+    ".\\BepInEx\\plugins\\TEST2": "39980668c414a093b2dbf4914e526fcd",
+    ".\\BepInEx\\plugins\\TEST": "39980668c414a093b2dbf4914e526fcd",
 }
