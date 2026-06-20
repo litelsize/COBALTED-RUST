@@ -17,11 +17,6 @@
         "Tags": ""
       },
       {
-        "Address": "localhost",
-        "Port": 28015,
-        "Tags": ""
-      },
-      {
         "Address": "192.168.1.100",
         "Port": 28015,
         "Tags": ""
